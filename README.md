@@ -8,19 +8,31 @@ A Flutter-based gym workout logging application that helps you track your exerci
 
 ## Features
 
-### 🏋️ Workout Logging
+### Workout Logging
 - Log gym sets with exercise name, weight (kg), and reps
 - Add optional notes to each set for additional context
 - Create multiple sets at once for efficient logging
 - Automatic timestamp tracking for all logged sets
 
-### 📊 History & Tracking
+<div align="center">
+  <img src="screenshots/Screenshot_20251227_143541.jpg" alt="Main Menu" width="200"/>
+  <img src="screenshots/Screenshot_20251227_143549.jpg" alt="Add Set Screen" width="200"/>
+  <img src="screenshots/Screenshot_20251227_143557.jpg" alt="Exercise Picker" width="200"/>
+</div>
+
+### History & Tracking
 - View your complete workout history sorted by date (newest first)
 - Detailed view of each logged set
 - Delete individual sets when needed
 - All data is stored locally on your device
 
-### 🎯 Exercise Management
+<div align="center">
+  <img src="screenshots/Screenshot_20251227_143622.jpg" alt="Adding Exercise Details" width="200"/>
+  <img src="screenshots/Screenshot_20251227_143635.jpg" alt="History Screen" width="200"/>
+  <img src="screenshots/Screenshot_20251227_143648.jpg" alt="Set Details" width="200"/>
+</div>
+
+### Exercise Management
 - **Built-in Exercise Groups**: Pre-configured exercises organized by muscle groups:
   - **Pecs**: Bench Press, Incline Bench Press, Dumbbell Fly, Cable Crossover
   - **Back**: Deadlift, Barbell Row, Pull-up, Lat Pulldown
@@ -33,13 +45,19 @@ A Flutter-based gym workout logging application that helps you track your exerci
 - **Custom Exercises**: Add your own exercise names that aren't in the built-in list
 - Organize and manage your custom exercises list
 
-### 📤 Data Export
+<div align="center">
+  <img src="screenshots/Screenshot_20251227_143652.jpg" alt="Settings Screen" width="200"/>
+  <img src="screenshots/Screenshot_20251227_143709.jpg" alt="Custom Exercises" width="200"/>
+  <img src="screenshots/Screenshot_20251227_143726.jpg" alt="Export Options" width="200"/>
+</div>
+
+### Data Export
 - Export your complete workout history to CSV format
 - Share exported data via your device's share functionality
 - Timestamped file names for easy organization
 - Compatible with spreadsheet applications (Excel, Google Sheets, etc.)
 
-### ⚙️ Settings
+### Settings
 - Manage your custom exercise list
 - View all built-in exercises organized by muscle groups
 - Simple and clean interface
