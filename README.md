@@ -15,8 +15,8 @@ A Flutter-based gym workout logging application that helps you track your exerci
 - Automatic timestamp tracking for all logged sets
 
 <div align="center">
-  <img src="screenshots/Screenshot_20251227_143541.jpg" alt="Main Menu" width="240" style="margin-right: 20px"/>
-  <img src="screenshots/Screenshot_20251227_143549.jpg" alt="Add Set Screen" width="240" style="margin-right: 20px"/>
+  <img src="screenshots/Screenshot_20251227_143541.jpg" alt="Main Menu" width="240" style="margin-right: 40px"/>
+  <img src="screenshots/Screenshot_20251227_143549.jpg" alt="Add Set Screen" width="240" style="margin-right: 40px"/>
   <img src="screenshots/Screenshot_20251227_143557.jpg" alt="Exercise Picker" width="240"/>
 </div>
 
@@ -27,8 +27,8 @@ A Flutter-based gym workout logging application that helps you track your exerci
 - All data is stored locally on your device
 
 <div align="center">
-  <img src="screenshots/Screenshot_20251227_143622.jpg" alt="Adding Exercise Details" width="240" style="margin-right: 20px"/>
-  <img src="screenshots/Screenshot_20251227_143635.jpg" alt="History Screen" width="240" style="margin-right: 20px"/>
+  <img src="screenshots/Screenshot_20251227_143622.jpg" alt="Adding Exercise Details" width="240" style="margin-right: 40px"/>
+  <img src="screenshots/Screenshot_20251227_143635.jpg" alt="History Screen" width="240" style="margin-right: 40px"/>
   <img src="screenshots/Screenshot_20251227_143648.jpg" alt="Set Details" width="240"/>
 </div>
 
@@ -46,8 +46,8 @@ A Flutter-based gym workout logging application that helps you track your exerci
 - Organize and manage your custom exercises list
 
 <div align="center">
-  <img src="screenshots/Screenshot_20251227_143652.jpg" alt="Settings Screen" width="240" style="margin-right: 20px"/>
-  <img src="screenshots/Screenshot_20251227_143709.jpg" alt="Custom Exercises" width="240" style="margin-right: 20px"/>
+  <img src="screenshots/Screenshot_20251227_143652.jpg" alt="Settings Screen" width="240" style="margin-right: 40px"/>
+  <img src="screenshots/Screenshot_20251227_143709.jpg" alt="Custom Exercises" width="240" style="margin-right: 40px"/>
   <img src="screenshots/Screenshot_20251227_143726.jpg" alt="Export Options" width="240"/>
 </div>
 
